@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aryan<br>\currently working on a ai assistant<br>👀 I’m interested in making ai projects<br>🌱 I’m currently learning python<br>💞️ I’m looking to collaborate on insta<br>📫 How to reach me-) https://www.instagram.com/the_pixel_0/?hl=en
+👋 Hi, I’m Aryan<br>\currently working on a ai assistant<br>👀 I’m interested in making ai projects<br>🌱 I’m currently learning python<br>💞️ I’m looking to collaborate on insta<br>📫 How to reach me-) https://www.instagram.com/aryancodez_/?hl=en
 
 
 ## 🌐 Socials:
