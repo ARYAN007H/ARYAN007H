@@ -51,6 +51,13 @@
 </table>
 
 </div>
+---
+
+# 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/ARYAN007H/ARYAN007H/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 
 ---
 
