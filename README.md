@@ -1,9 +1,9 @@
 # 💫 About Me
 👋 I'm Aryan  
-👀 Building AI projects  
+👀 Building AI projects and projects with ai.
 🔐 Shifting towards cybersecurity  
-🤖 Most code here is AI-written but ideas are mine  
-🤝 Open to startup collabs (equity-level roles)  
+🤖 Most code here is AI-written .
+🤝 Want to join startups to learn and build extraordinary things. 
 📱 Insta → https://instagram.com/ai.vybe/
 
 ---
