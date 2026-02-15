@@ -1,10 +1,11 @@
 # 💫 About Me
 👋 I'm Aryan  
-👀 Building AI projects and projects with ai
+👀 Building AI projects and projects with ai                                                                                                                                                                                                              
 🔐 Shifting towards cybersecurity
-🤖 Most code here is AI-written 
+🤖 Most code here is AI-written
 🤝 Want to join startups to learn and build extraordinary things
 📱 Insta → https://instagram.com/ai.vybe/
+
 
 ---
 
