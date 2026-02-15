@@ -1,5 +1,5 @@
 # 💫 About Me
-👋 I'm Aryan  
+👋 I'm Aryan  , 17 in 2025        
 👀 Building AI projects and projects with ai                                                                                                                                                                                                              
 🔐 Shifting towards cybersecurity          
 🤖 Most code here is AI-written                         
